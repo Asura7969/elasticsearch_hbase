@@ -58,14 +58,7 @@ public class EsController {
 		return "index.jsp";
 	}
 
-	
-	
-	
-	
 
-	
-
-	
 	/**
 	 * 查看文章详细信息
 	 * @return
